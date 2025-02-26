@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4Vitalii5
+- 👋 Hi, My name is Vitalii
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Java, Apache, Selenium
 - 💞️ I’m looking to collaborate on Java projects.
